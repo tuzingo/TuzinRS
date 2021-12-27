@@ -1,13 +1,6 @@
 # Arthur C Regueira 
 
-Olá, esses são os projetos onde eu me meti 
-
-|     Nome       	| Previsão de conclusão 	| Instituição 	|
-|:--------------:	|-----------------------	|-------------	|
-| Baianor        	| Nunca Muahaha         	| SESI/SENAI  	|
-| Coffee         	| MANUTENÇÃO            	| PESSOAL     	|   	
-| Mafagafo Figth 	| Lamentável            	| PESSOAL     	|
-| Turbo Canavial  | Abandonado           | P             |
+Hello bro
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=TuzinRS&show_icons=true&count_private=true&theme=dark)
 
